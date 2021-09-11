@@ -1,5 +1,7 @@
 # Risk Transfer Climate Immobility Agent-Based Model
 
+Accompanying paper: Choquette-Levy, N. et al (2021). Risk transfer policies and climate-induced immobility among smallholder farmers", _Nature Climate Change_(in preparation).
+
 Hello! This repository contains the code used to develop the agent-based model on which the paper "Risk Transfer Policies and Climate-Induced Immobility among Smallholder Farmers" is based.
 
 The main goal of this project is to better understand how climate change affects the use of migration by smallholder farmers in Nepal, and how different policy interventions, e.g. crop insurance, cash transfers, and migration support, may affect those choices. To do this, we developed an agent-based model (ABM) that simulates how farmers decide on livelihood strategies with different risk/reward profiles, as a function of information they receive from their social networks, changing climatic conditions, and policy interventions.
