@@ -1,5 +1,7 @@
 # Risk Transfer Climate Immobility Agent-Based Model
 
+![image](https://user-images.githubusercontent.com/49871094/133323365-558f80d7-a8ee-4e6f-8d02-87e38708431e.png)
+
 Accompanying paper: Choquette-Levy, N.; Wildemeersch, M.; Oppenheimer, M.; and S. Levin (2021). Risk transfer policies and climate-induced immobility among smallholder farmers", _Nature Climate Change_(in preparation).
 
 Hello! This repository contains the code used to develop the agent-based model on which the paper "Risk Transfer Policies and Climate-Induced Immobility among Smallholder Farmers" is based.
